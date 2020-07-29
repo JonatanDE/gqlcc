@@ -1,0 +1,18 @@
+{
+  "name": "gqlcc",
+  "version": "1.0.0",
+  "description": "Apollo Control Center (backend)",
+  "main": "index.js",
+  "scripts": {
+    "start:server": "node index.js"
+  },
+  "author": "Dmitriy Shevchuk",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-mongodb": "^0.2.7",
+    "apollo-server": "^2.16.0",
+    "graphql": "^15.3.0",
+    "mongodb": "^3.5.9",
+    "mongodb-prebuilt": "^6.5.0"
+  }
+}
