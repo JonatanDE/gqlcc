@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "apollo-datasource-mongodb": "^0.2.7",
-    "apollo-server": "^2.16.0",
+    "apollo-server": "^2.25.4",
     "graphql": "^15.3.0",
     "mongodb": "^3.5.9",
     "mongodb-prebuilt": "^6.5.0"
